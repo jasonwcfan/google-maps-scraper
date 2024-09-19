@@ -1,0 +1,26 @@
+curl $'https://www.google.com/maps/@43.6500418,-79.3916043,3508m/data=\u00213m1\u00211e3?entry=ttu&g_ep=EgoyMDI0MDkxNi4wIKXMDSoASAFQAw%3D%3D' \
+  -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cache-control: max-age=0' \
+  -H 'cookie: receive-cookie-deprecation=1; __Secure-BUCKET=CKsD; ADS_VISITOR_ID=00000000-0000-0000-0000-000000000000; S=billing-ui-v3=o3brKv056PxCmwAmB56i5LsZphaUfRdc:billing-ui-v3-efe=o3brKv056PxCmwAmB56i5LsZphaUfRdc:sso=q5NO2KVJOER-xOk4cI3wzYDwNXoX43hn; OTZ=7711203_84_88_104280_84_446940; SID=g.a000oAi49CeabgRT8ankEkrP8tbixmZtHJ_EJdII-uf1yB7nzvD61CJyQoV3KOBZL0rks3yTuAACgYKAXoSARcSFQHGX2Mi79reYZzwEZGVz5YOUXJA8xoVAUF8yKqfn5-nuf2-sDUg6RuRsb430076; __Secure-1PSID=g.a000oAi49CeabgRT8ankEkrP8tbixmZtHJ_EJdII-uf1yB7nzvD6y4BVCgXxKoN0647ACafm5QACgYKAekSARcSFQHGX2MiTqNj_ZRu4-1X6uCvn7DW6RoVAUF8yKqItJN2kRLbCU2aBgi3zsNg0076; __Secure-3PSID=g.a000oAi49CeabgRT8ankEkrP8tbixmZtHJ_EJdII-uf1yB7nzvD6ERF8hEtQaJj1DJZlW1jGswACgYKAYISARcSFQHGX2MifU0KiMxzaaI2e7136VpijBoVAUF8yKoXPdHiDh8YLvNg7Ft9pzxG0076; HSID=AWpGcE1NMmJ8MVV63; SSID=ABO8xBw5kQjOT1GnC; APISID=JeW3EWNQlwltwy8H/A2Tcng2-KIjGkcoLm; SAPISID=mcqQ5uBDpSuzOY-J/A9zED1NK98GTOtQWb; __Secure-1PAPISID=mcqQ5uBDpSuzOY-J/A9zED1NK98GTOtQWb; __Secure-3PAPISID=mcqQ5uBDpSuzOY-J/A9zED1NK98GTOtQWb; AEC=AVYB7cpXWBjFqaeozD4BQKDS81V8o550r8eYj3UXFEnQVnm7Ldf8j6ygrw; NID=517=BL-I4VJktxACRWXrHYcSyy4548I7E0YkIeskIdS-hES9YPIk4pagFrWW9UWGjS6I87DaKm047ENYpBfk4HjBeFm6pSPj8Na0eJOezyd6DzAkFoR9VX08_2uoeaqZ-9IbrhAEpvkH1dF1Z9c7zyGKv-ZB5yhag-ytIJWePHRIIJnWw-YAfMen3RZP7IXK2QlR43dIeip5l0vAq-9yyCx1gQX5eVNjBaGIFsD90NttBv0XQ_tyljs1AsFlNNjHOJo0qNXuiCw8Ryl8CTcoGqJm8YdUhjj0p0njuYJpRhjZ4iM3uYOlia-j1hXAVsG9puu6r4NH6v5B_2xNix2DxX6PwIrsUttKNLXcVSJ_6WW2tmxSE3MC6elq-5SrCAeoywP_poCMKWbGCgUxahq2iWG6D2IXpD8sxJn7WOfhA-3WOjhAf_rdHoEJtFa40NXEYBuHMRWizxtErXt1IFtZSd3gAQH6YoE3TmjKWQerc6hpccugFyvoz4J-xymTNfWq3wQx5TaogEmvyi0zJkk2PzqhI0m7nHTBVnZ1Io70aLTY1avaoJMPuY9e0N78H8XtfgfGZchfxIEP5wRn76yS6WAKGsgNTUvah9USa9PW6qyMjzR8ohJfHkfNTnHDuxnhVwSqNiHaW6ZNqMxNrJ0BLQQuNvbMMeJ8EYrbEVEg9jzTd7hsn7dTLncIl7swUb9n7nSjQuh9clg3cN0HoxNwOGvLspMiaSpGFjk1WfKumwtGZaw18cq7JhsaRlpAH6EMQAtxZghcyvYCv3NKj3Qx98m-ppZpdRjv5Mn2yJoHZenUJeuVb2vFeFfUOpj3FLYG8CBRhGk8BGlLrxaJDfa-IaUbLfgDbEHxPrUCVugQSIYY3KjRWk_V7PaStygdM6G7A7t4ycenAFxZ6eiBAOA9iwF-vNgduLAVrxbp6eRkmmiJb_cA2xVG3Pb572ei41icTo_b0QNevXDlqey0n97uA8Nn99OwzousbALNOHfKlve8sXITcWrnSD9HlqsIjTnLDvDLlcswAdy1KvPoUQgqmlWbPr_OhPuv-E8-NNTcNGStAd079RdZwHD3JuSSHHSS0zdn4Q9-4CyNJanTzqIpkGxhvw1hbtDOs4c5-hFrjk2-5DpHbnU3isqp3fFqyVgazfjMGajp4Z71Ly-vn1uJE2TToJPxxAFRd0E0lbuQIPrfHd_Eg15cy_K0TfE_IeNXDrZo9H9iqv17fVIAYutML42eZ4CIEOkkvBdAP20a_Y0bOSxm9iragxwYuRUZi0XFQBfbht0QAqLan0haqsPtTLnX1Omh63HJlljKfuKOkQk7x0gS_Jqnmy6vbNtZRZC30ZoHo-zhghW4E92CKq65OM0ZSra4Wm0ej_cQv3bwR7kpt2tAyWGqtpK0YwLpsBV6zYK-qh4GXuB2YBJHcNFHk1B1mNcFxOyafZICl8sW-JWZeCjRCCOtxKA-kyksC98cM0WR_ajeHWmQKUAi45fC34nhd-QLxl0IzpPLXddyRukhr_K7X61W74W7I9e_wISqCW8eOKwKx4ixrAFVAN3W7MW1z3kxvV5jLpDmO2d2hRz4wfLsIXEYtqdZf3TOCKtSyS5tJSnybw-EJMA7OBq-M2BBqsF7t-2DNJx-w6dIpbOmxnXtl0RiLxg7Sk5oprq0onIxrq9N6me1e4Mu7PuSz9M-K5bAbJGN-YrEMtAfFDnnY9XwjkzAunQAtl77Hm-CUcz4iHutLzE8XReDpPArdoUnohLhiydrAeDbN1K2CO1RTo-bUPMckOO6tGkoMhCj-aIx3fUsAcNDrLup5ABKa4VYhoT_T4eVCBi6c_h-mgOdacNaJLVxQIbleYathivCBxS9FHmFsc-zknDzcvTb6VoeHxPPQQ0fe_BbCSz6IvZVI74uYpowWP1T-GKq-_dmCipTWAFuRHla5q1Y17wp8KFWHyuNYOnM2mIxvD5wTKMZkcabeMcgqrlkdCXANWOArnAX-qiImDUK; DV=kzlFkI8sOw4mMHmT6pnFunxe-nCqIBnDyIhcn90vJAMAAAA; UULE=a+cm9sZTogMQpwcm9kdWNlcjogMTIKdGltZXN0YW1wOiAxNzI2NzU1NTc0MTQ1MDAwCmxhdGxuZyB7CiAgbGF0aXR1ZGVfZTc6IDQzNjUwOTU4OQogIGxvbmdpdHVkZV9lNzogLTc5Mzk2ODk5Mwp9CnJhZGl1czogMjE3MDAKcHJvdmVuYW5jZTogNgo=; __Secure-1PSIDTS=sidts-CjIBQlrA-NEUJyN_WDKbmLYoJJWS1AQxR6WuTCy7njaFLrWHW7OHgYtK2OelecRvoTIyRBAA; __Secure-3PSIDTS=sidts-CjIBQlrA-NEUJyN_WDKbmLYoJJWS1AQxR6WuTCy7njaFLrWHW7OHgYtK2OelecRvoTIyRBAA; SIDCC=AKEyXzUeKK8k4BbjS_cntaGD2-lD8ZfRPOKpeatRQ8tgohQD89gV00KEta_jeKtKPembRBjoXQzr; __Secure-1PSIDCC=AKEyXzVKFbrEQY8Z9TKfrDWO9_rOj4aoVZ9aiOp6TVGi25-pZ8Ni6xnKPjJWa6TMt-SV3uDUo_c; __Secure-3PSIDCC=AKEyXzX6XV2iCDPK8M5w1MeRyUt_tOWuTjjGiam5dLY6FFVBGIT3tMw7aUGMRpNGJT-BjgrZpLbT' \
+  -H 'dnt: 1' \
+  -H 'priority: u=0, i' \
+  -H 'sec-ch-prefers-color-scheme: light' \
+  -H 'sec-ch-ua: "Not;A=Brand";v="24", "Chromium";v="128"' \
+  -H 'sec-ch-ua-arch: "arm"' \
+  -H 'sec-ch-ua-bitness: "64"' \
+  -H 'sec-ch-ua-full-version: "128.0.6613.138"' \
+  -H 'sec-ch-ua-full-version-list: "Not;A=Brand";v="24.0.0.0", "Chromium";v="128.0.6613.138"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-model: ""' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-ch-ua-platform-version: "14.6.1"' \
+  -H 'sec-ch-ua-wow64: ?0' \
+  -H 'sec-fetch-dest: document' \
+  -H 'sec-fetch-mode: navigate' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-user: ?1' \
+  -H 'service-worker-navigation-preload: true' \
+  -H 'upgrade-insecure-requests: 1' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36' \
+  -H 'x-client-data: CJyBywE='

@@ -2,4 +2,6 @@ from pydantic import BaseModel
 
 
 class InputSchema(BaseModel):
-    user_id: str
+    query: str
+    curl_file: str
+    output_file: str
