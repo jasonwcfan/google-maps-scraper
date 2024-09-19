@@ -1,5 +1,4 @@
 {
-    "curl_file": "curl.txt",
     "output_file": "output.txt",
     "query": "restaurants in Toronto"
 }

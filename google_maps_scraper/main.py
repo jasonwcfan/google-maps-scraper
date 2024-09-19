@@ -16,7 +16,6 @@ finic = Finic(
 @finic.workflow_entrypoint(input_model=InputSchema)
 def main(input: InputSchema):
     query = input.query
-    curl_file = input.curl_file
     output_file = input.output_file
     
     places = []
